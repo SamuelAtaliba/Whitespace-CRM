@@ -1,3 +1,4 @@
+<p>Whitespace CRM<p> 
 ## 🚀 Descrição do Projeto
 O Whitespace CRM é um sistema de gerenciamento de relacionamento com o cliente (CRM) desenvolvido pela empresa Whitespace. Ele oferece recursos abrangentes para ajudar as empresas a gerenciar leads, clientes, interações e campanhas de marketing de forma eficiente.
 
